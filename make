@@ -1,6 +1,6 @@
 #!/bin/sh
 
-VERSION=0.4.0
+VERSION=0.5.0
 VERSION_SUFFIX=os1
 MAINTAINER="adrian@opensignal.com"
 
